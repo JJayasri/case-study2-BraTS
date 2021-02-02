@@ -7,4 +7,5 @@ a) FLAIR (Fluid Attenuated Inversion )weighted sequences
 b) T1-weighted sequences
 c) T1 CE-weighted sequences
 d) T2- weighted sequences
-These were acquired with different clinical protocols and various scanners from 19 multiple institutions
+### These were acquired with different clinical protocols and various scanners from 19 multiple institutions
+### Each MRI Image volume of each patient consists of 240x240x155 dimensions
